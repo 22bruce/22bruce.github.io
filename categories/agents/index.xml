@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r/bruce blog</title>
-    <link>http://22bruce.github.io/</link>
-    <description>Recent content on r/bruce blog</description>
+    <title>Agents on r/bruce blog</title>
+    <link>http://22bruce.github.io/categories/agents/</link>
+    <description>Recent content in Agents on r/bruce blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://22bruce.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://22bruce.github.io/categories/agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All about Agents</title>
       <link>http://22bruce.github.io/thoughts/agents/</link>
@@ -45,30 +45,6 @@
 &lt;/h2&gt;
 
 &lt;p&gt;Different people have different definition of agents. Here is what Anthropic has to say about it. They differentiated agents with generall static LLM flows by creating two categories &lt;strong&gt;workflows&lt;/strong&gt; and &lt;strong&gt;agents&lt;/strong&gt;. [1]&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>First post of year</title>
-      <link>http://22bruce.github.io/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://22bruce.github.io/posts/first/</guid>
-      <description>&lt;h1 id=&#34;first-post&#34; class=&#34;header-anchor-wrapper&#34;&gt;First post
-  &lt;a href=&#34;#first-post&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h1&gt;
-
-&lt;p&gt;Hi, This is my first ever blog post. I am relearning my AI concepts including Math. I have curated a personal learning path of 12 courses with lots of research and I am planning to share all my notes as blog posts here. I belive writing in a way where I have to explain things online helps me understand many concepts better, it will also include many hands on experiment which I would have skipped otherwise.&lt;/p&gt;</description>
     </item>
     
   </channel>

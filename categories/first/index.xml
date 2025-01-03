@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>First on My New Hugo Site</title>
+    <title>First on r/bruce blog</title>
     <link>http://22bruce.github.io/categories/first/</link>
-    <description>Recent content in First on My New Hugo Site</description>
+    <description>Recent content in First on r/bruce blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://22bruce.github.io/categories/first/index.xml" rel="self" type="application/rss+xml" />
